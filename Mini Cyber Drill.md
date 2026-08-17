@@ -36,4 +36,4 @@ for a response.
 - DC-01 | 10.10.3.10 | Domain Controller
 - DB-SERVER-01 | 10.10.3.20 | Database Server 
 
-Next to the steps for process [here!](https://github.com/sarahwuzz/SOC-Training-Project/blob/main/Mini%20Cyber%20Drill-Steps.md)
+Next to the steps for process [here!](https://github.com/sarahwuzz/SOC-Training-Project/blob/main/Mini%20Cyber%20Drill-Investigation.md)
