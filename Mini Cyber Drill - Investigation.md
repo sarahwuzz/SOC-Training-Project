@@ -9,7 +9,8 @@ the available telemetry and continues through initial access, execution, credent
 access, discovery, persistence, lateral movement, collection,
 exfiltration, and defense evasion.
 
-## Reconnaissance
+### 1. Reconnaissance
 
 #### An attempt to do port scanning & web vulnerability scanning
 
+  
